@@ -52,4 +52,4 @@ Alongside development, I’m exploring AI/ML and continuously expanding my knowl
 
 ## 🤝 Connect with Me
 - LinkedIn: [LinkedIn](https://linkedin.com/in/aasifkhan10)
-- 📧 Email: aasifkhan.a2006@gmail.com
+- Email: aasifkhan.a2006@gmail.com
