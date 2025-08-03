@@ -45,7 +45,7 @@ I love turning ideas into clean, functional, and user-friendly web applications 
 ---
 
 ## 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/aasifkhan10)  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aasifkhan10)  
 - 📧 Email: aasifkhan.a2006@gmail.com
 
 ---
