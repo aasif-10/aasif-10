@@ -7,7 +7,7 @@ Alongside development, I’m exploring AI/ML and continuously expanding my knowl
 ---
 
 - 🌱 I’m currently learning **Backend Development**
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@aasif10)
+- 📝 I write articles on [Hashnode](https://hashnode.com/@aasif10)
 - 💬 Ask me about **Frontend Development**
 - 📫 How to reach me: **aasifkhan.a2006@gmail.com**
 
