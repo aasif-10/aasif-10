@@ -45,7 +45,6 @@ Alongside development, I’m exploring AI/ML and continuously expanding my knowl
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasif-10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=aasif-10&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasif-10&theme=dark" alt="GitHub Streak" height="150"/>
 </div>
 
 ---
