@@ -3,8 +3,6 @@
   <img src="banner.png" alt="Aasif Khan Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Aasif Khan</h1>
-
 <h3 align="center">
 I'm a Software Engineering student at VIT, a frontend developer with a strong interest in building clean, functional, and user-friendly web applications. 
 Alongside development, I’m exploring AI/ML and continuously expanding my knowledge of emerging technologies.
