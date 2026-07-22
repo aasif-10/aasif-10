@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-I'm a Software Engineering student at VIT, a frontend developer with a strong interest in building clean, functional, and user-friendly web applications. 
+I'm a Software Engineering student at VIT, a full-stack developer with a strong interest in building clean, functional, and user-friendly web applications. 
 Alongside development, I’m exploring AI/ML and continuously expanding my knowledge of emerging technologies.
 </h3>
 
