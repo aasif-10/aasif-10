@@ -178,21 +178,21 @@ I write about software engineering, development, and things I learn while buildi
 <td align="center" width="120">
 <a href="https://github.com/aasif-10">
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
-<br>GitHub
+
 </a>
 </td>
 
 <td align="center" width="120">
 <a href="https://linkedin.com/in/aasifkhan10">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-<br>LinkedIn
+
 </a>
 </td>
 
 <td align="center" width="120">
 <a href="mailto:aasifkhan.a2006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-<br>Email
+
 </a>
 </td>
 
