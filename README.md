@@ -1,23 +1,32 @@
 <!-- Custom Banner -->
+
 <p align="center">
   <img src="banner.png" alt="Aasif Khan Banner" width="100%"/>
 </p>
 
 <h3 align="center">
-I'm a Software Engineering student at VIT, a full-stack developer with a strong interest in building clean, functional, and user-friendly web applications. 
-Alongside development, I’m exploring AI/ML and continuously expanding my knowledge of emerging technologies.
+I'm a Software Engineering student at VIT, a full-stack developer with a strong interest in building clean, functional, and user-friendly web applications.
+Alongside development, I'm exploring AI/ML and continuously expanding my knowledge of emerging technologies.
 </h3>
 
 <br>
 
-- I’m currently learning **Backend Development**
-- I write articles on [Hashnode](https://hashnode.com/@aasif10)
-- Ask me about **Frontend Development**
-- How to reach me: **aasifkhan.a2006@gmail.com**
+<h3 align="center">Current Focus</h3>
+
+<p align="center">
+  <b>Backend Development</b> ·
+  <b>System Design</b> ·
+  <b>AI / ML</b>
+</p>
+
+<p align="center">
+Currently focused on building reliable backend systems, working with APIs and databases,
+learning scalable system design, and exploring practical AI integrations.
+</p>
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <table align="center">
 
@@ -151,7 +160,41 @@ Alongside development, I’m exploring AI/ML and continuously expanding my knowl
 
 <br>
 
-## Connect with Me
+<h3 align="center">Writing</h3>
 
-- LinkedIn: [LinkedIn](https://linkedin.com/in/aasifkhan10)
-- Email: aasifkhan.a2006@gmail.com
+<p align="center">
+I write about software engineering, development, and things I learn while building.
+<br>
+<a href="https://hashnode.com/@aasif10">Read my articles on Hashnode</a>
+</p>
+
+<br>
+
+<h3 align="center">Connect with Me</h3>
+
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<a href="https://github.com/aasif-10">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<br>GitHub
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://linkedin.com/in/aasifkhan10">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<br>LinkedIn
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="mailto:aasifkhan.a2006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<br>Email
+</a>
+</td>
+
+</tr>
+</table>
