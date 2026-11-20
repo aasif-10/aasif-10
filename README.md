@@ -1,23 +1,6 @@
-<div align="center">
-
-# Aasif Khan
-
-Software Engineering student at VIT. Backend and full-stack developer.
-<br>
-Building reliable backend systems, exploring system design and applied AI.
-
-<br>
-
-<a href="https://aasifkhan.me"><img src="https://skillicons.dev/icons?i=chrome&theme=dark" alt="Portfolio" height="48"/></a>
-<a href="https://linkedin.com/in/aasifkhan10"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48"/></a>
-<a href="https://github.com/aasif-10"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="48"/></a>
-<a href="mailto:aasifkhan.a2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="48"/></a>
-
-</div>
-
 ### About
-
-- M.Tech Integrated in Software Engineering at VIT Chennai, CGPA 9.29
+- Software Engineering student at VIT. I build reliable backend systems and explore system design and applied AI.
+- M.Tech Integrated in Software Engineering at VIT Chennai
 - Focused on backend systems, system design, and applied AI
 - Google Big Code 2026 and Flipkart GRiD 8.0 semi-finalist
 
@@ -31,11 +14,7 @@ Building reliable backend systems, exploring system design and applied AI.
 
 ### Tech Stack
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,tailwind,nodejs,express,postgres,mongodb,mysql,redis,firebase,supabase,graphql,docker,nginx,aws,githubactions,jest,postman,git,linux&perline=12&theme=dark" alt="Tech stack"/>
-
-</div>
 
 ### Achievements
 
