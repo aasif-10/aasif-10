@@ -1,5 +1,6 @@
 ### About
-- Software Engineering student at VIT. I build reliable backend systems and explore system design and applied AI.
+- Software Engineering student at VIT. 
+- I build reliable backend systems and explore system design and applied AI.
 - M.Tech Integrated in Software Engineering at VIT Chennai
 - Focused on backend systems, system design, and applied AI
 - Google Big Code 2026 and Flipkart GRiD 8.0 semi-finalist
@@ -15,14 +16,6 @@
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,tailwind,nodejs,express,postgres,mongodb,mysql,redis,firebase,supabase,graphql,docker,nginx,aws,githubactions,jest,postman,git,linux&perline=12&theme=dark" alt="Tech stack"/>
-
-### Achievements
-
-- **Google Big Code 2026:** Semi-finalist, one of 1,500 shortlisted participants
-- **Flipkart GRiD 8.0:** Semi-finalist, top 0.76% nationally
-- **Best Overall Project:** SIMATS, for SLIM AI
-- **Gravito Hacks:** 4th place among 70+ teams
-- **Academic:** Ranked 8th overall in the department
 
 ### Writing
 
