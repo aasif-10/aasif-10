@@ -1,200 +1,50 @@
-<!-- Custom Banner -->
+<div align="center">
 
-<p align="center">
-  <img src="banner.png" alt="Aasif Khan Banner" width="100%"/>
-</p>
+# Aasif Khan
 
-<h3 align="center">
-I'm a Software Engineering student at VIT, a full-stack developer with a strong interest in building clean, functional, and user-friendly web applications.
-Alongside development, I'm exploring AI/ML and continuously expanding my knowledge of emerging technologies.
-</h3>
+Software Engineering student at VIT. Backend and full-stack developer.
+<br>
+Building reliable backend systems, exploring system design and applied AI.
 
 <br>
 
-<h3 align="center">Current Focus</h3>
+<a href="https://aasifkhan.me"><img src="https://skillicons.dev/icons?i=chrome&theme=dark" alt="Portfolio" height="48"/></a>
+<a href="https://linkedin.com/in/aasifkhan10"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48"/></a>
+<a href="https://github.com/aasif-10"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="48"/></a>
+<a href="mailto:aasifkhan.a2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="48"/></a>
 
-<p align="center">
-  <b>Backend Development</b> ·
-  <b>System Design</b> ·
-  <b>AI / ML</b>
-</p>
+</div>
 
-<p align="center">
-Currently focused on building reliable backend systems, working with APIs and databases,
-learning scalable system design, and exploring practical AI integrations.
-</p>
+### About
 
-<br>
+- M.Tech Integrated in Software Engineering at VIT Chennai, CGPA 9.29
+- Focused on backend systems, system design, and applied AI
+- Google Big Code 2026 and Flipkart GRiD 8.0 semi-finalist
 
-<h3 align="center">Languages and Tools</h3>
+### Featured Projects
 
-<table align="center">
+| Project | Highlights | Stack |
+|:--|:--|:--|
+| [**Scalable URL Shortener**](https://github.com/aasif-10/REPO_NAME) | Redirect latency cut from 1.18s to 134ms with Redis cache-aside. 3,700+ req/s at 500 concurrent connections, 99.9% success rate. Async click analytics via BullMQ. | React, Node.js, Express, PostgreSQL, Redis, BullMQ |
+| [**AI Resume Optimizer**](https://github.com/aasif-10/REPO_NAME) | Analyzes resumes against job descriptions with Gemini, computes ATS scores and skill gaps, and generates single-page A4 PDFs via Puppeteer. | React, Node.js, Express, MongoDB, Gemini |
+| [**AI Video Assistant**](https://github.com/aasif-10/REPO_NAME) | RAG pipeline for question answering over YouTube and local videos, using Whisper transcription and MMR retrieval. | Python, LangChain, Mistral AI, Whisper, ChromaDB |
 
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/>
-<br>Python
-</td>
+### Tech Stack
 
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="48"/>
-<br>Java
-</td>
+<div align="center">
 
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48"/>
-<br>C++
-</td>
+<img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,tailwind,nodejs,express,postgres,mongodb,mysql,redis,firebase,supabase,graphql,docker,nginx,aws,githubactions,jest,postman,git,linux&perline=12&theme=dark" alt="Tech stack"/>
 
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/>
-<br>JavaScript
-</td>
+</div>
 
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48"/>
-<br>React
-</td>
+### Achievements
 
-<td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48"/>
-<br>Node.js
-</td>
+- **Google Big Code 2026:** Semi-finalist, one of 1,500 shortlisted participants
+- **Flipkart GRiD 8.0:** Semi-finalist, top 0.76% nationally
+- **Best Overall Project:** SIMATS, for SLIM AI
+- **Gravito Hacks:** 4th place among 70+ teams
+- **Academic:** Ranked 8th overall in the department
 
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48"/>
-<br>MySQL
-</td>
+### Writing
 
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/>
-<br>GitHub
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48"/>
-<br>HTML
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48"/>
-<br>CSS
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
-<br>Tailwind
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48"/>
-<br>Express
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
-<br>MongoDB
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48"/>
-<br>Firebase
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48"/>
-<br>Supabase
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48"/>
-<br>Postman
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48"/>
-<br>Git
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-<br>VS Code
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=graphql" width="48"/>
-<br>GraphQL
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48"/>
-<br>C
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bash" width="48"/>
-<br>Bash
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48"/>
-<br>Linux
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=npm" width="48"/>
-<br>NPM
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48"/>
-<br>CLI
-</td>
-</tr>
-
-</table>
-
-<br>
-
-<h3 align="center">Writing</h3>
-
-<p align="center">
-I write about software engineering, development, and things I learn while building.
-<br>
-<a href="https://hashnode.com/@aasif10">Read my articles on Hashnode</a>
-</p>
-
-<br>
-
-<h3 align="center">Connect with Me</h3>
-
-<table align="center">
-<tr>
-
-<td align="center" width="120">
-<a href="https://github.com/aasif-10">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://linkedin.com/in/aasifkhan10">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="mailto:aasifkhan.a2006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-
-</a>
-</td>
-
-</tr>
-</table>
+I write about software engineering and lessons from building at [hashnode.com/@aasif10](https://hashnode.com/@aasif10).
