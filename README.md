@@ -14,8 +14,9 @@
 | [**AI Video Assistant**](https://github.com/aasif-10/REPO_NAME) | RAG pipeline for question answering over YouTube and local videos, using Whisper transcription and MMR retrieval. | Python, LangChain, Mistral AI, Whisper, ChromaDB |
 
 ### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,tailwind,nodejs,express,postgres,mongodb,mysql,redis,firebase,supabase,graphql,docker,nginx,aws,githubactions,jest,postman,git,linux&perline=12&theme=dark" alt="Tech stack"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,tailwind,nodejs,express,postgres,mongodb,mysql,redis,firebase,supabase,graphql,docker,nginx,aws,githubactions,jest,postman,git,linux&perline=12&theme=dark" alt="Tech stack" width="600" />
+</div>
 
 ### Writing
 
